@@ -1,4 +1,4 @@
-# Damien Achanzar-Miller
+# Damien Achanzar Miller
 
 Computer Science student at Northern Illinois University focused on software engineering and game programming.
 
